@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config",
+  "version": "1.0.0",
+  "description": "My prefered eslint-config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessypouliot98/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "react",
+    "typescript",
+    "import",
+    "sort"
+  ],
+  "author": "JessyP98",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessypouliot98/eslint-config/issues"
+  },
+  "homepage": "https://github.com/jessypouliot98/eslint-config#readme"
+}
